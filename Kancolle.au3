@@ -33,7 +33,7 @@ Func _Click($x,$y)
    ControlClick("KanColleViewer!","", "[CLASS:MacromediaFlashPlayerActiveX; INSTANCE:1]","left",1,$x,$y)
    Sleep(200)
 EndFunc
-
+asshole
 Func _ResupplyFleetHotKey()
        Switch @HotKeyPressed
 		 Case "+!a"
